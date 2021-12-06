@@ -3915,8 +3915,8 @@ body.is-preload #intro:not(.hidden) + #header + #nav {
 
 #main > .post header.major > h1,
 #main > .post header.major h2 {
-  font-size: 3rem;
-  line-height: 1.3;
+  font-size: 2.5rem;
+  line-height: 1;
   margin: 0 0 2rem 0;
 }
 
